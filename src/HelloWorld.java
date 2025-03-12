@@ -1,5 +1,5 @@
 /*
- * Class for HelloWorld fdsa testtes testtestt
+ * Class for HelloWorld
  */
 class HelloWorld {
 

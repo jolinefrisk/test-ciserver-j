@@ -6,9 +6,9 @@ public class HelloWorldTests {
 
     @Test
     void sayHelloWorldTest() {
-        HelloWorld helloWorld = new HelloWorld;
+        HelloWorld helloWorld = new HelloWorld();
         
         String expected = "Hello, World";
-        assertEquals(expected, helloWorld.returnHelloWorld);
+        assertEquals(expected, helloWorld.returnHelloWorld());
     }
 }
