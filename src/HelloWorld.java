@@ -1,3 +1,6 @@
+/*
+ * Class for HelloWorld
+ */
 class HelloWorld {
 
     public String returnHelloWorld() {
