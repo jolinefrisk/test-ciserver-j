@@ -1,7 +1,7 @@
 package com.exempel;
 
 /**
- * Hello world! yes dfdf hjhjtest
+ * Hello world! yes dfdf 
  *
  */
 public class App {
