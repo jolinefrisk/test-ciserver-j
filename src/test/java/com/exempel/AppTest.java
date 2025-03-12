@@ -11,12 +11,14 @@ public class AppTest
     extends TestCase
 {
 
-    /**
-     * Rigourous Test :-)
-     */
-    public void testApp()
+    public void testAppTrue()
     {
         assertTrue( true );
+    }
+
+    public void testAppFalse()
+    {
+        assertFalse( false );
     }
 
 }
